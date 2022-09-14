@@ -1,3 +1,31 @@
 body {
 	background-color: lightblue;
 }
+
+.header {
+    text-align:center;
+}
+
+#header1 {
+    color:cornflowerblue;
+}
+
+#header2 {
+    color:cadetblue;
+}
+
+.paragraph {
+    /* background-color: aliceblue; */
+    color:black;
+    text-align: center;
+}
+
+.div {
+    color:purple;
+    background-color: aqua;
+    text-align: right;
+}
+
+#div_style {
+    color:rgb(77, 167, 170);
+}
